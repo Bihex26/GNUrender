@@ -48,7 +48,7 @@ namespace RealTimeChartTest
             else
                 scaleFactor = 1e-3;
 
-            fft = new float[fftSize * 2];
+            fft = new float[1024 * 2];
 
             InitializeComponent();
 
@@ -56,9 +56,9 @@ namespace RealTimeChartTest
 
             chartThread.Start();
 
-            Chart1.ChartAreas[0].AxisY.Interval = 0;
-            Chart1.ChartAreas[0].AxisY.Minimum = -80;
-            Chart1.ChartAreas[0].AxisY.Maximum = 40;
+            Chart1.ChartAreas[0].AxisY.Interval = 20;
+            Chart1.ChartAreas[0].AxisY.Minimum = -200;
+            Chart1.ChartAreas[0].AxisY.Maximum = 20;
             Chart1.ChartAreas[0].AxisX.Interval = 50;
             Chart1.ChartAreas[0].AxisX.Minimum = 100;
             Chart1.ChartAreas[0].AxisX.Maximum = 600;
@@ -79,7 +79,7 @@ namespace RealTimeChartTest
                 {
                     {
                         this.Invoke((MethodInvoker)UpdateChart);
-                        Thread.Sleep(10);
+                        Thread.Sleep(100);
                     }
                 }
             }
@@ -107,7 +107,7 @@ namespace RealTimeChartTest
 
             List<float> lstMagSqrd = new List<float>();
 
-            for (int i = 0; i < fftSize; i += 8)
+            for (int i = 0; i < fft.Length; i += 8)
             {
                 for (int j = 0; j < 4; j++)
                 {
@@ -115,40 +115,40 @@ namespace RealTimeChartTest
                     cplxVal2[j] = (float)Math.Pow(fft[i + j + 4], 2);
                 }
 
-                //Reverse each 8 float for sse3
-                lstMagSqrd.AddRange(new float[]
-                {
-                    cplxVal2[0] + cplxVal2[1],
-                    cplxVal2[2] + cplxVal2[3],
-                    cplxVal1[0] + cplxVal1[1],
-                    cplxVal1[2] + cplxVal1[3]
-                });
-
-                ////Reverse each 8 float for sse
+                ////Reverse each 8 float for sse3
                 //lstMagSqrd.AddRange(new float[]
                 //{
-                //    cplxVal1[3] + cplxVal1[2],
+                //    cplxVal2[0] + cplxVal2[1],
+                //    cplxVal2[2] + cplxVal2[3],
                 //    cplxVal1[0] + cplxVal1[1],
-                //    cplxVal2[3] + cplxVal2[2],
-                //    cplxVal2[0] + cplxVal2[1]
+                //    cplxVal1[2] + cplxVal1[3]
                 //});
+
+                //Reverse each 8 float for sse
+                lstMagSqrd.AddRange(new float[]
+                {
+                    cplxVal1[3] + cplxVal1[2],
+                    cplxVal1[0] + cplxVal1[1],
+                    cplxVal2[3] + cplxVal2[2],
+                    cplxVal2[0] + cplxVal2[1]
+                });
             }
 
             List<OnePole> lstFilter = new List<OnePole>();
-            for (int i = 0; i < fftSize / 2; i++)
+            for (int i = 0; i < fftSize / 2 + 1; i++)
             {
                 lstFilter.Add(new OnePole((float)1.0));
             }
 
             //Take first N/2+1 elements of magArr
             List<float> lstFilterMag = new List<float>();
-            for (int i = 0; i < fftSize / 2; i++)
+            for (int i = 0; i < fftSize / 2 + 1; i++)
             {
                 lstFilterMag.Add(lstFilter[i].Process(lstMagSqrd[i]));
             }
 
             //Frequecy
-            for (int i = 0; i < fftSize / 2; i++)
+            for (int i = 0; i < fftSize / 2 + 1; i++)
             {
                 f[i] = i * sampleRate * scaleFactor / (fftSize / 2 + 1) + baseFreq * scaleFactor;
             }
@@ -168,9 +168,9 @@ namespace RealTimeChartTest
                         - 10 * Math.Log10(power / fftSize)
                         - 20 * Math.Log10(2 / 2)));
 
-            for (int i = 1; i < fftSize / 2; i++)
+            for (int i = 1; i < fftSize / 2 + 1; i++)
             {
-                psdVal.Add((float)(10 * Math.Log10(2 * Math.Max(lstFilterMag[i], 1e-18))
+                psdVal.Add((float)(10 * Math.Log10(Math.Max(lstFilterMag[i], 1e-18))
                             - 20 * Math.Log10(fftSize)
                             - 10 * Math.Log10(power / fftSize)
                             - 20 * Math.Log10(2 / 2) + 3));
@@ -180,7 +180,7 @@ namespace RealTimeChartTest
             int t = 0;
 
 
-            for (int i = 0; i < fftSize / 2; i++)
+            for (int i = 0; i < fftSize / 2 + 1; i++)
             {
                 Chart1.Series["Series1"].Points.AddXY(f[i], psdVal[i]);
             }
