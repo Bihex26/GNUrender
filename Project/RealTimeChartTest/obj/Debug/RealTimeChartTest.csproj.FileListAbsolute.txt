@@ -106,3 +106,13 @@ C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\LineC
 C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
 C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
 C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\QuangVinh\Desktop\GNUrender\GNUrender\Project\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
