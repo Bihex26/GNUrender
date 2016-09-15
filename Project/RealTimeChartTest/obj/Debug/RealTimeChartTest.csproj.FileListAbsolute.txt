@@ -1,0 +1,108 @@
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\재용\Documents\Visual Studio 2012\Projects\RealTimeChartTest\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\Raizen\Desktop\NOIS\GNU\LiveChart\New folder\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+D:\Noischart\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+D:\Noischart\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+D:\Noischart\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+D:\Noischart\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+D:\Noischart\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\phath\Desktop\NOIS_RenderChart\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\Raizen\Desktop\NOIS\GNU\NOIS_RenderChart_PSD_Fix\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\Bihex\Desktop\GNUrender\Ver1\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver3\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe.config
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\bin\Debug\RealTimeChartTest.exe
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\bin\Debug\RealTimeChartTest.pdb
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.csprojResolveAssemblyReference.cache
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\LineChartTEST.Form1.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.Properties.Resources.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.Test.resources
+C:\Users\QuangVinh\Desktop\GNUrender\Ver4_best\RealTimeChartTest\obj\Debug\RealTimeChartTest.csproj.GenerateResource.Cache
